@@ -1,0 +1,7 @@
+	PERSONEL KAYIT LISTESI
+
+14-6-2022 18:51 Yapilan Islem: Bayram SahinKarabulut isimli yeni personel sisteme kayit edildi.
+
+14-6-2022 18:52 Yapilan Islem: Osman ErenBoz isimli yeni personel sisteme kayit edildi.
+
+14-6-2022 18:53 Yapilan Islem: KadircanBebek isimli yeni personel sisteme kayit edildi.
